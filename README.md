@@ -8,5 +8,5 @@ I am just a code and coffee lover.
 
   # My projects
 - 🌱 My actual project is maps-coffee-react
-- My best project is blog-frontend (React)
-- My last project is ab-tes-blog-fe (Vue)
+- My the best project is blog-frontend (React)
+- My last project is blog-fe-vue (Vue)
