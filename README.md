@@ -4,9 +4,9 @@ I am just a code and coffee lover.
 
 **About me:**
 
-- 🖥️ I’m currently working as Frontend Developer
+- 🖥️ I’m currently working as Frontend Developer.
 
   # My projects
-- 🌱 My actual project is maps-coffee-react
-- My the best project is blog-frontend (React)
-- My last project is blog-fe-vue (Vue)
+- 🌱 My current projects are maps-coffee-react and book-app.
+- My best project is (https://github.com/CoffeeladyCZ/blog-frontend)[blog-frontend] (React).
+- My last project is (https://github.com/CoffeeladyCZ/blog-app-fe-vue)[blog-app-fe-vue] (Vue).
